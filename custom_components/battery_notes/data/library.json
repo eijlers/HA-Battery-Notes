@@ -186,6 +186,11 @@
             "battery_quantity": 2
         },
         {
+            "manufacturer": "Eufy Security",
+            "model": "T8213",
+            "battery_type": "Rechargeble"     
+        },        
+        {
             "manufacturer": "Fantem",
             "model": "4 in 1 multi sensor (ZB003-X)",
             "battery_type": "CR123A",
@@ -298,6 +303,11 @@
         {
             "manufacturer": "IKEA of Sweden",
             "model": "SYMFONISK Sound Controller",
+            "battery_type": "CR2032"
+        },
+        {
+            "manufacturer": "IKEA of Sweden",
+            "model": "Remote Control N2",
             "battery_type": "CR2032"
         },
         {
@@ -487,6 +497,11 @@
             "battery_type": "Rechargeable"
         },
         {
+            "manufacturer": "Oral-B",
+            "model": "IO Series 8/9",
+            "battery_type": "Rechargeable"
+        },
+        {
             "manufacturer": "Oras",
             "model": "Electra Washbasin Faucet",
             "battery_type": "2CR5"
@@ -556,6 +571,12 @@
             "battery_type": "CR2032"
         },
         {
+            "manufacturer": "Plugwise",
+            "model": "168-01",
+            "battery_type": "CR2032",
+            "battery_quantity": 1
+        },
+        {
             "manufacturer": "Ring",
             "model": "Doorbell 2",
             "battery_type": "Rechargeable"
@@ -614,6 +635,18 @@
             "manufacturer": "Signify Netherlands B.V.",
             "model": "Hue wall switch module (RDM001)",
             "battery_type": "CR2450"
+        },
+        {
+            "manufacturer": "Signify Netherlands B.V.",
+            "model": "RDM001",
+            "battery_type": "CR2450",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Signify Netherlands B.V.",
+            "model": "RWL022",
+            "battery_type": "CR2032",
+            "battery_quantity": 1
         },
         {
             "manufacturer": "Siterwell",
@@ -873,6 +906,48 @@
             "model": "Rat Trap",
             "battery_type": "C",
             "battery_quantity": 4
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCT-302",
+            "battery_type": "CR2",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCT-501",
+            "battery_type": "CR2",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCT-426",
+            "battery_type": "CR123A",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCT-427",
+            "battery_type": "CR123A",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCX-610",
+            "battery_type": "AA",
+            "battery_quantity": 4
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "MCW-K980",
+            "battery_type": "LS14250",
+            "battery_quantity": 1
+        },
+        {
+            "manufacturer": "Visonic",
+            "model": "Next K9-85",
+            "battery_type": "CR123A",
+            "battery_quantity": 1
         },
         {
             "manufacturer": "Xiaomi",
